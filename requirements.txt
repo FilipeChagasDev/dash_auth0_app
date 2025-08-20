@@ -1,0 +1,5 @@
+dash>=2.0.0
+flask>=2.0.0
+authlib>=1.2.0
+python-dotenv>=1.0.0
+six>=1.16.0
